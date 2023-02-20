@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iqra Rafiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="coding-gif" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrarfiq12&label=Profile%20views&color=0e75b6&style=flat" alt="iqrarfiq12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqrarfiq12" alt="iqrarfiq12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -10,12 +12,11 @@
 
 - 🌱 I’m currently learning **React.js & Tailwind CSS**
 
-- 💬 Ask me about **MEARN,**
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **iqrak0128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://linkedin.com/in/iqra-rafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-rafiq" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithiqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithiqra" height="30" width="40" /></a>
