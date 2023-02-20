@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Iqra Rafiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding-gif" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="coding-gif" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrarfiq12&label=Profile%20views&color=0e75b6&style=flat" alt="iqrarfiq12" /> </p>
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iqra-rafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-rafiq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iqra-rafiq-329ab2245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-rafiq" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithiqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithiqra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with iqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with iqra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithiqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with iqra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
