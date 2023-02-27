@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js & Tailwind CSS**
 
-- 💬 Ask me about **MEARN Stack Development, Full Stack Web Application**
+- 💬 Ask me about **MEARN + Full Stack Web Application**
 
 - 📫 How to reach me **iqrak0128@gmail.com**
 
