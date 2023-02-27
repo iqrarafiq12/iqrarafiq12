@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iqra Rafiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/bb/56/d4/bb56d4954172a4d288dc307a63c91067.gif">
+<img align="right" alt="coding-gif" width="300" src="https://i.pinimg.com/originals/bb/56/d4/bb56d4954172a4d288dc307a63c91067.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrarafiq12&label=Profile%20views&color=0e75b6&style=flat" alt="iqrarafiq12" /> </p>
 
