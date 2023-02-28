@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iqra-rafiq-329ab2245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqra-rafiq-329ab2245/" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithiqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithiqra" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@iqrak0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@iqrak0128" height="30" width="40" /></a>
+<a href="https://medium.com/@iqrak0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@iqrak0128" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code with iqra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with iqra" height="30" width="40" /></a>
 </p>
 
